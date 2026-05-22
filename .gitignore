@@ -27,3 +27,6 @@ out/
 
 reports/
 sources.txt
+
+#Mac stuff
+.DS_Store
